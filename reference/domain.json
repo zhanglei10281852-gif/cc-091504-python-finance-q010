@@ -1,0 +1,20 @@
+{
+  "restriction_sources": [
+    "IPO_lockup",
+    "director_holding",
+    "private_placement",
+    "incentive_award"
+  ],
+  "plan_states": [
+    "draft",
+    "review",
+    "active",
+    "suspended",
+    "closed"
+  ],
+  "relationship_types": [
+    "controller",
+    "family",
+    "employee_platform"
+  ]
+}
